@@ -9,7 +9,7 @@ lin-jinwei
 Code: [../code/S4-web-RESTful](../code/)
 
 
-如果还没有安装Docker需要先安装Docker的。
+如果还没有安装Docker需要先安装Docker的
 
 ## Ubuntu安装Docker步骤
 ### 1. 更新软件源
